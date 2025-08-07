@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #fff8f0;
+  background-color: #f4f7f9;
   color: #222;
   text-align: center;
   margin: 0;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  background-color: #fb8c00;
+  background-color: #546e7a;
   color: white;
   padding: 20px;
   margin: 0 0 20px 0;
@@ -33,7 +33,7 @@ h1 {
 }
 
 .columna-ano h2 {
-  background-color: #fb8c00;
+  background-color: #607d8b;
   padding: 8px 12px;
   margin: 0;
   border-radius: 6px;
@@ -50,7 +50,7 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  background-color: #ffe0b2;
+  background-color: #e0f2f1;
   padding: 12px;
   border-radius: 8px;
   flex: 1;
@@ -60,19 +60,19 @@ h1 {
 .semestre h3 {
   margin: 0 0 5px 0;
   font-size: 14px;
-  background-color: #ffcc80;
+  background-color: #80cbc4;
   border-radius: 4px;
   padding: 4px;
-  color: #e65100;
+  color: #004d40;
 }
 
 .ramo {
-  background-color: #ffe0b2;
+  background-color: #b2dfdb;
   border-radius: 8px;
   padding: 8px;
   font-size: 11px;
   cursor: pointer;
-  border: 2px solid #fb8c00;
+  border: 2px solid #4db6ac;
   transition: 0.3s;
 }
 
@@ -88,7 +88,7 @@ h1 {
 }
 
 .ramo.aprobado {
-  background-color: #ffb74d;
+  background-color: #4db6ac;
   color: white;
-  border-color: #e65100;
+  border-color: #00796b;
 }
